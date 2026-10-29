@@ -30,9 +30,11 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 
 
 ## Simulated Output waveform
-
+<img width="1917" height="1078" alt="Screenshot 2026-10-29 141633" src="https://github.com/user-attachments/assets/aae9cca4-17b7-43c2-ade9-7d3c173b5468" />
+<img width="1913" height="1072" alt="Screenshot 2026-10-29 141853" src="https://github.com/user-attachments/assets/0c91e891-8dcf-4724-9a1a-9237a8044cf3" />
+<img width="692" height="612" alt="Screenshot 2026-10-29 141908" src="https://github.com/user-attachments/assets/e36b275c-76b8-4ed0-bbf4-b90fd1394a56" />
 
 ## RESULT.
-
+Thus,the torque–speed characteristics of a three-phase induction motor were obtained.
 
 
